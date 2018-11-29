@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jamie/Desktop/Game dev/MonoGame/Platformer/Platformer/Content/pixil-frame-0.png</File>
+    <File>C:/Users/Jamie/Desktop/Game dev/MonoGame/Platformer/Platformer/Content/Player/p1_walk.png</File>
+    <File>C:/Users/Jamie/Desktop/Game dev/MonoGame/Platformer/Platformer/Content/stars.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
